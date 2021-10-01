@@ -1,0 +1,7 @@
+greenting_text :
+  default : 'Hello'
+  type : enum
+  choices :
+    - 'Hello'
+    - 'Good morning'
+  description : 'select a greeting type'

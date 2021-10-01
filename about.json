@@ -1,0 +1,17 @@
+{
+  "about_url": null,
+  "license_url": null,
+  "assets": {
+  },
+  "name": "second theme",
+  "color_schemes": {
+  },
+  "modifiers" : {
+    "svg_icons" : [
+      "drafting-compass",
+      "smile-wink",
+      "ad",
+      "cat"
+    ]
+  }
+}

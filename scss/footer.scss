@@ -1,0 +1,24 @@
+.footer {
+    background: $primary-low;
+    .wrap {
+      display: flex;
+    }
+    ul {
+      display: flex;
+      flex: 1;
+      margin: 0;
+    }
+    li {
+      list-style: none;
+      margin: 1em;
+      font-size: $font-up-1;
+      color: $secondary;
+    }
+    .footer-logo {
+      display: flex;
+      align-items: center;
+      img {
+        max-height: 40px;
+      }
+    }
+  }
